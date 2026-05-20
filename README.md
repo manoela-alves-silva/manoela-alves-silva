@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👩‍💻 Manoela Silva
 
-<!--
-**manoela-alves-silva/manoela-alves-silva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Software — 1º semestre
 
-Here are some ideas to get you started:
+Sou estudante de Engenharia de Software e atualmente estou no primeiro semestre da graduação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho me dedicado aos estudos de desenvolvimento web, principalmente PHP, além de construir pequenos projetos para praticar lógica, backend e organização de código.
+
+Já estudei HTML, CSS e Bootstrap 5, e também tenho interesse em análise de dados e tecnologia em geral.
+
+Este perfil reúne meus estudos, projetos e minha evolução como desenvolvedora.
+
+---
+
+## 💻 Linguagens e Tecnologias
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
+</p>
