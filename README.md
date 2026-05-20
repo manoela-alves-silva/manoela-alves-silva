@@ -3,11 +3,8 @@
 🎓 Estudante de Engenharia de Software — 1º semestre
 
 Sou estudante de Engenharia de Software e atualmente estou no primeiro semestre da graduação.
-
 Tenho me dedicado aos estudos de desenvolvimento web, principalmente PHP, além de construir pequenos projetos para praticar lógica, backend e organização de código.
-
 Já estudei HTML, CSS e Bootstrap 5, e também tenho interesse em análise de dados e tecnologia em geral.
-
 Este perfil reúne meus estudos, projetos e minha evolução como desenvolvedora.
 
 ---
