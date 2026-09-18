@@ -1,6 +1,6 @@
 # 👩‍💻 Manoela Silva
 
-🎓 Estudante de Engenharia de Software — 1º semestre
+🎓 Estudante de Engenharia de Software — 2º semestre
 
 Sou estudante de Engenharia de Software e atualmente estou no primeiro semestre da graduação.
 Tenho me dedicado aos estudos de desenvolvimento web, principalmente PHP, além de construir pequenos projetos para praticar lógica, backend e organização de código.
